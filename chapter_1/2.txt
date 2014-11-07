@@ -1,0 +1,7 @@
+sum[x]
+= {apply sum}
+	x + sum[]
+= {spply sum again}
+	x + 0
+= {apply +}
+	x

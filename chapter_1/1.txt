@@ -1,0 +1,10 @@
+double (double 2)
+	= {apply inner double}
+	double (2 + 2)
+	= {apply double}
+	(2+2)+(2+2)
+	= {apply first group}
+	4 + (2+2)
+	= {apply 2nd}
+	4 + 4
+	= 8

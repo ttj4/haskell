@@ -1,0 +1,1 @@
+for infinite number of arguments it is not feasible to check two functions are equal
